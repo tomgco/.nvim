@@ -19,6 +19,7 @@ Plug 'scrooloose/syntastic'
 Plug 'scrooloose/nerdcommenter' 
 Plug 'rust-lang/rust.vim' 
 Plug 'ternjs/tern_for_vim', { 'do': 'npm install' }
+Plug 'floobits/floobits-neovim'
 
 call plug#end()
 
